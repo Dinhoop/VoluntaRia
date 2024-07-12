@@ -4,14 +4,15 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`2º semestre/2023`
+`2º semestre/2023 - 1º Período`
 
 O objetivo deste projeto é a criação de uma aplicação web que permita as pessoas a se cadastrarem como voluntários para projetos sociais e que as empresas interessadas publiquem projetos.
 
 ## Integrantes
 
+* **Anderson da Silva Gomes (Dinhoop)**
+
 * Aleksander Cunha Garcia Romero
-* Anderson da Silva Gomes
 * Arthur de Andrade Simões
 * Átila Eduardo de Pádua Ribeiro
 * Gabriela Aparecida de Araújo
@@ -19,6 +20,18 @@ O objetivo deste projeto é a criação de uma aplicação web que permita as pe
 ## Orientador
 
 * Joyce Christina de Paiva Carvalho
+
+## Papel e funcionalidades que fui responsável
+
+1. Participação na criação do design (template da plicação)
+2. Página de Projetos incluindo:
+3. Carregamento das categorias de forma dinâmica
+4. Listagem dos projetos cadastrados
+5. Modal com a exebição dos dados do projeto
+6. Funcionalidade de inscrição do voluntário nos projetos
+7. Funcionalidade de finalização dos projetos
+8. Na página de cadastrar Projetos, a inclusão e manipulação das categorias, e a opção de upload de imagens da galeria e via web usando uma api externa.
+9. Parte da documentação desenvolvida ao longo do curso
 
 # Documentação
 
