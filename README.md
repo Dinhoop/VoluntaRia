@@ -21,7 +21,7 @@ O objetivo deste projeto é a criação de uma aplicação web que permita as pe
 
 * Joyce Christina de Paiva Carvalho
 
-## Papel e funcionalidades que fui responsável
+## Papel e funcionalidades que fui responsável (Dinhoop)
 
 1. Participação na criação do design (template da plicação)
 2. Página de Projetos incluindo:
